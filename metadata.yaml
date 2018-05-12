@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25552
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins_Pennell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24452#NightsRome-Venice-in-the-Aesthetic-Eighties--London-Paris-in-the-Fighting-Nineties
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2008-01-29'
 gutenberg_type: Text
